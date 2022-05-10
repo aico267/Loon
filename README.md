@@ -1,3 +1,3 @@
-# Loon
+# Loon、Quantumult x
 
-自用，不一定会维护
+搬运自用，不一定会维护
